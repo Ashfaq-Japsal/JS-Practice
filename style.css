@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(44, 43, 43);
+}
+
+#name {
+color: rgb(242, 249, 255);
+}
+
+#rollno {
+    color: rgb(251, 255, 34);
+}
+
+#area {
+    color: rgb(231, 255, 231);
+}
+
+h1 {
+    margin: 50px;
+}
